@@ -1,0 +1,295 @@
+@media screen and (max-width: 766px){
+
+p {
+	font-size: 16px !important;
+	font-weight: 500 !important;
+}
+button {
+	font-size: 15px !important;
+	height: 40px !important;
+	width: 140px !important;
+
+}
+
+/*-------- Hero section start---------------*/
+.hero-container {
+	height: auto;
+}
+
+.hero-container div:first-child {
+	width: 100%;
+	height:auto;
+	padding:150px 5% 30px 5%;
+	text-align: center;
+}
+
+.hero-container div:first-child  h1 {
+	font-size: 34px;
+}
+
+.hero-container div:last-child {
+	width: 100%;
+	height:450px;
+	text-align: center;
+}
+
+.hero-container div:last-child img {
+	height:auto;
+	width:100%;
+	max-width: 300px;
+	padding: 0px;
+}
+
+/* hero section close */
+
+
+
+
+
+/*--------feature section start---------------*/
+
+.feature-heading {
+	width: 100%;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.feature-heading  h1 {
+	font-size: 33px;
+}
+
+.feature-heading  p {
+	margin: 0% 5% ;
+}
+
+.feature-container div {
+	margin: 3%;
+	min-width: 250px;
+}
+
+
+
+
+/*-------  about us -------------*/
+
+.about-container {
+	height:auto;
+	
+}
+
+.about-container div {
+	width: 100%;
+	text-align: center;
+	
+}
+
+.about-container div:first-child {
+	height: 500px;
+}
+
+
+.about-container div:last-child {
+	justify-content: center;
+	text-align: center;
+	padding-bottom: 100px;
+}
+.about-container div:last-child h1 {
+	font-size: 33px;
+}
+
+
+.about-container div:last-child p {
+	text-align: center;
+}
+
+/* about section close */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --- download start --------*/
+
+.parallax-container {
+	height:800px;
+}
+
+
+.parallax-container div:first-child {
+	width:100%;
+	height: 400px;
+	float: left;
+	padding: 100px 5%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+
+.parallax-button-1 {
+	margin-left: 5%;
+}
+
+
+.parallax-container div:last-child {
+	width: 100%;
+	height: 400px;
+}
+.parallax-container div:last-child img {
+	height: 100%;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	
+}
+
+
+
+
+
+
+/* -------- Package----------*/
+
+
+.package-heading h1 {
+	font-size: 33px;
+}
+.package-heading p {
+	margin: 0px 5%;
+}
+
+.package-container div {
+	margin: 10px 0px;
+	min-width: 380px;
+}
+
+.package-container div p {
+	font-size: 16px;
+	font-weight: 600;
+	color: gray;
+	line-height:25px;
+
+}
+
+.package-container div:nth-child(2) {
+	margin:20px 0px;
+}
+
+/* package section close */
+
+
+
+
+
+/* -------- Our Team Expert ----------*/
+.team-heading   h1 {
+	font-size: 33px;
+}
+
+.team-heading   p {
+	margin: 0% 5% ;
+}
+
+.team {
+	margin: 2%;
+}
+
+
+
+
+
+
+/* --------client----------*/
+.client-heading {
+	padding-top: 000px ;
+}
+
+.client-heading h1 {
+	font-size: 33px;
+	margin-bottom: 15px;
+
+}
+.client-heading p {
+	font-family:century gothic;
+	font-weight: 600;
+	font-size: 16px;
+	color: gray;
+	margin: 0% 5% ;
+	margin-bottom: 30px;
+
+}
+
+
+
+.client-container {
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+.client-marquee {
+	margin: 2% 15% -2% 15%;
+}
+.client-marquee img {
+	width: 100px;
+	margin: 0% 5%;
+}
+
+
+
+
+
+
+
+
+/*------ CONATCT FORM -------------*/
+
+.contact-form-container {
+	padding: 100px 5%;
+}
+
+.contact-form-container h1 {
+	font-size: 33px;
+}
+.contact-form-container div {
+	width: 100%;
+	text-align: center;
+	padding-bottom: 50px;
+
+}
+
+
+
+.field {
+	width: 96%;
+}
+
+.textarea {
+	width: 96%;
+}
+
+
+
+
+
+
+/*--------- Contact ----------*/
+.footer-container {
+	width: 100%;
+	padding-top: 100px;
+	background: linear-gradient(#7841E0,#9E3EE8);
+}
+
+.footer-container div {
+	width: 100%;
+	padding: 20px 5%;
+	text-align: center !important;
+	height: auto;
+
+}

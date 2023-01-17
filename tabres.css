@@ -1,0 +1,110 @@
+@media screen and (max-width: 1200px) {
+
+
+/*-------- Hero section start--------*/
+.hero-container {
+	height: 700px;
+}
+.hero-container div:first-child {
+	padding: 20% 0% 0% 10%;
+}
+
+.hero-container div:first-child  h1 {
+	font-size: 44px;
+}
+
+.hero-container div:last-child img {
+	height:90%;
+	padding-top: 20%;
+}
+/*hero section close*/
+
+
+
+
+
+/*--------feature section start---------------*/
+
+.feature-container div {
+	width: 40%;
+}
+/*feacture section close*/
+
+
+
+
+
+/*about section start*/
+.about-container div:first-child img {
+ 	height: auto;
+ 	width: 100%;
+}
+/*about section close*/
+
+
+
+
+
+
+/* --- download start --------*/
+
+.parallax-container div:first-child {
+	padding: 0px 10%;
+}
+
+.parallax-container div:last-child img {
+	height:auto;
+	width:90%;
+	position: absolute;
+	bottom: 0px;
+}
+
+/*parallax section close*/
+
+
+
+
+
+/* -------- Package----------*/
+.package-container div {
+	min-width: 250px;
+	margin: 2%;
+}
+
+.package-container div:nth-child(2) {
+	margin: 0px;
+}
+
+
+/* package section close */
+
+
+
+
+
+
+/*contact form section start*/
+.contact-form-container {
+	padding: 100px 10% 0px 10%;
+}
+
+.contact-form-container div {
+	min-width: 280px;
+}
+
+
+/* contact section start */
+
+
+
+
+
+
+/*footer section setart*/
+
+.footer-container div {
+	min-width: 300px;
+}
+
+
+}
